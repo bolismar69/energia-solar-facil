@@ -12,9 +12,13 @@
 Este repositório centraliza três projetos distintos, que operam de forma integrada:
 
 energia-solar-facil/
+
 ├── react-native-expo-app-solar-facil/ # Aplicativo mobile (Expo + React Native)
+
 ├── react-web-solar-facil/ # Plataforma web (React.js)
+
 └── java-spring-api-solar-facil/ # Backend e serviços REST (Spring Boot)
+
 
 
 Cada projeto possui seu próprio repositório Git e pode ser trabalhado de forma independente.
